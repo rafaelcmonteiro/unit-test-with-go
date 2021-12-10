@@ -1,3 +1,3 @@
-module tests
+module example
 
 go 1.17

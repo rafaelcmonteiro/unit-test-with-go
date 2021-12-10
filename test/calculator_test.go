@@ -1,11 +1,9 @@
-package calculator_test
+package test
 
 import (
 	"testing"
 	"calculator"
-	//"github,com/TutorialEdge/go-testing-bible/calculator"
 )
-
 
 type TestCase struct {
 	value int

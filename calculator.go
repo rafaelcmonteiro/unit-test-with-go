@@ -2,7 +2,7 @@ package calculator
 
 import "math"
 
-func calculateIsArmstrong(n int) bool {
+func CalculateIsArmstrong(n int) bool {
 	a := n / 100
 	b := n % 100 / 10
 	c := n % 10
